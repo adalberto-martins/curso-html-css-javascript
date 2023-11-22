@@ -19,6 +19,8 @@ audio#musica {
 video#filme {
     display: block;
     position: relative;
-    left: 80px;
-    top: 85px;
+    left: 85px;
+    top: -40px;
+    width: 450px;
+    height: 400px;
 }
